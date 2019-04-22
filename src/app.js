@@ -1,7 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import IndecisionApp from './components/IndecisionApp';
+import { BrowserRouter, Route } from 'react-router-dom'
 import 'normalize.css/normalize.css';
 import './styles/styles.scss';
 
-ReactDOM.render(<IndecisionApp />, document.getElementById('app'));
+const routes = (
+  <BrowserRouter>
+
+  </BrowserRouter>
+);
+
+ReactDOM.render(route, document.getElementById('app'));
