@@ -31,6 +31,7 @@ const removeExpense = (
   type: 'REMOVE_EXPENSE',
   id
 });
+
 //EDIT_EXPENSE
 
 const editExpense = (id, updates) => ({
