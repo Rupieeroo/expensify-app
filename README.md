@@ -7,8 +7,8 @@ As this project progresses I will update this README.
 
 This project is a learning exercise in the uses and functionality of React and the libraries and frameworks that can be used with it. The tech that I am learning is listed below:
 
-- React-Router :on:
-- Redux
-- React with Redux
-- Testing
+- React-Router :white_check_mark:
+- Redux :white_check_mark:
+- React with Redux :white_check_mark:
+- Testing :on:
 - Deploying
