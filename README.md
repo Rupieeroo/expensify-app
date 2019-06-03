@@ -10,5 +10,5 @@ This project is a learning exercise in the uses and functionality of React and t
 - React-Router :white_check_mark:
 - Redux :white_check_mark:
 - React with Redux :white_check_mark:
-- Testing :on:
-- Deploying
+- Testing :white_check_mark:
+- Deploying :on:
