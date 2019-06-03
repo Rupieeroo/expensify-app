@@ -8,6 +8,7 @@ export class AddExpensePage extends React.Component {
     this.props.addExpense(expense);
     this.props.history.push('/');
   };
+
   render() {
     return(
       <div>
@@ -20,7 +21,7 @@ export class AddExpensePage extends React.Component {
   }
 }
 
-const mapDispatchToProps = () => ({
+const mapDispatchToProps = (dispatch) => ({
   addExpense: (expense) => dispatch(addExpense(expense))
 });
 
