@@ -1,5 +1,5 @@
 # Expensify App
-This app for managing expenses in the browser is being written in React.js. Utelizing Babel, React-Router, SCSS and other tools I will be adding as they become relevent.
+This app for managing expenses in the browser is being written in React.js. Utilising Babel, React-Router, SCSS and other tools I will be adding as they become relevant.
 
 As this project progresses I will update this README.
 
