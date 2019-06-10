@@ -12,3 +12,9 @@ This project is a learning exercise in the uses and functionality of React and t
 - React with Redux :white_check_mark:
 - Testing :white_check_mark:
 - Deploying :on:
+
+## Deployment
+
+The Expensify App is being deployed to Heroku (production env) at:
+
+https://expensify-app-rupiee.herokuapp.com/
