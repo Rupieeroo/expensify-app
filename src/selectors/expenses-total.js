@@ -1,3 +1,5 @@
-export default () => {
-  return 0;
+export default (expenses) => {
+  if (expenses.length === 0) {
+    return 0;
+  }
 };
