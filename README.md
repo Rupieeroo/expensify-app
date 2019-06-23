@@ -1,21 +1,25 @@
 # Expensify App [![Build Status](https://travis-ci.com/Rupieeroo/Expensify-App.svg?branch=master)](https://travis-ci.com/Rupieeroo/Expensify-App)
 
-This app for managing expenses in the browser is being written in React.js. Utilising Babel, React-Router, SCSS and other tools I will be adding as they become relevant.
+This app for managing expenses in the browser is being written in React.js. Utilising Babel, React-Router, SCSS, Webpack, Moment and Firebase as the database.
 
-As this project progresses I will update this README.
+Using Google authentication, the expenses you add will be entirely personal to you and secure.
 
-## What I am Currently Learning
 
-This project is a learning exercise in the uses and functionality of React and the libraries and frameworks that can be used with it. The tech that I am learning is listed below:
+## Areas of learning
+
+This project has been an exercise to gain greater understanding of React and various libraries and frameworks that can be used with it. Through this project I have learnt:
 
 - React-Router :white_check_mark:
 - Redux :white_check_mark:
 - React with Redux :white_check_mark:
-- Testing :white_check_mark:
-- Deploying :on:
+- Testing with React :white_check_mark:
+- Using Firebase as a database :white_check_mark:
+- Deploying with Heroku and Travis CI :white_check_mark:
 
 ## Deployment
 
-The Expensify App is being deployed to Heroku (production env) at:
+Expensify is being deployed to Heroku at:
 
 https://expensify-app-rupiee.herokuapp.com/
+
+Continuous Integration for the app is being run by Travis CI.
