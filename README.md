@@ -1,4 +1,5 @@
-# Expensify App
+# Expensify App [![Build Status](https://travis-ci.com/Rupieeroo/Expensify-App.svg?branch=master)](https://travis-ci.com/Rupieeroo/Expensify-App)
+
 This app for managing expenses in the browser is being written in React.js. Utilising Babel, React-Router, SCSS and other tools I will be adding as they become relevant.
 
 As this project progresses I will update this README.
